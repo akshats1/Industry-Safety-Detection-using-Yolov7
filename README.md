@@ -1,8 +1,8 @@
 # Industry-Safety-Detection-using-Yolov7
 Data Link:
-[link]https://drive.google.com/file/d/1ncxeLuWEMXkXVI79LXbA38s-Ij0d2q4E/view
+[link](https://drive.google.com/file/d/1ncxeLuWEMXkXVI79LXbA38s-Ij0d2q4E/view)
 Yolo Repository: 
-[link]https://github.com/WongKinYiu/yolov7
+[link](https://github.com/WongKinYiu/yolov7)
 
 ## Workflows
 1. constants
