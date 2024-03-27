@@ -1,0 +1,6 @@
+train: /media/akshat/New Volume/Safety_detection/Industry-Safety-Detection-using-Yolov7/train.txt
+val: /media/akshat/New Volume/Safety_detection/Industry-Safety-Detection-using-Yolov7/val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
