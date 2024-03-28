@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 359950458119.dkr.ecr.us-east-1.amazonaws.com/yolov7app
+    - Save the URI:     359950458119.dkr.ecr.us-east-1.amazonaws.com/yolov7app
 
 
 ## 4. Create EC2 machine (Ubuntu) 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  ###
+    AWS_ECR_LOGIN_URI = demo>>  ### 359950458119.dkr.ecr.us-east-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = yolov7app
 
