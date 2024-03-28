@@ -105,5 +105,5 @@ pip install -r requirements.txt
 
     AWS_ECR_LOGIN_URI = demo>>  ### 359950458119.dkr.ecr.us-east-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = yolov7app
+    ECR_REPOSITORY_NAME = #yolov7app
 
