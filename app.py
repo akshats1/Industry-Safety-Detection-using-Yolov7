@@ -40,6 +40,7 @@ def download_model_s3()-> str:
         raise isdException(e, sys)
 
     try: 
+        #logic for getting model
         model_download_dir = "yolov7"+"/"+model_pusher_config.S3_MODEL_KEY_PATH
         
         if os.path.exists(model_download_dir):
