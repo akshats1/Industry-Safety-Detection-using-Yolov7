@@ -262,5 +262,3 @@ crashlytics-build.properties
 fabric.properties
 yolov7.pt
 traced_model.pt
-best.pt
-my_model.pt
