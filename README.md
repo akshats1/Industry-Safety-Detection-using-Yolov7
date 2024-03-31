@@ -1,5 +1,7 @@
 # Industry-Safety-Detection-using-Yolov7
 
+[![workflow](https://github.com/akshats1/Industry-Safety-Detection-using-Yolov7/actions/workflows/cicd.yaml/badge.svg)](https://github.com/akshats1/Industry-Safety-Detection-using-Yolov7/actions/workflows/cicd.yaml)
+
 
 
 
